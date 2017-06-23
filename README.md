@@ -18,9 +18,8 @@ A list of movies worth watching.
 |          | Taxi Driver | 1976   |
 | | | |
 | | | |
-| _Steven Spielberg_              | 
+| _Steven Spielberg_              |
 |       | Schindler's List | 1993 |
-|  | Back to the  Future | 1985   |
 | | | |
 | _Jaco Van Dormael_              | 
 |          | Mr Nobody | 2009     |
@@ -70,3 +69,5 @@ A list of movies worth watching.
 | | | |
 | _Tom Ford_                      | 
 |       | Noctural Animals | 2016 |
+| _Robert Zemeckis_              |
+|  | Back to the  Future | 1985   |
