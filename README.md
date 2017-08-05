@@ -6,6 +6,7 @@ A list of movies worth watching.
 
 | Director | Title    | Year      |
 | -------- | -------- | --------- |
+| | | |
 | _Christopher Nolan_             | 
 |          | Interstellar | 2014  |
 |        | The Dark Knight | 2008 |
@@ -20,6 +21,7 @@ A list of movies worth watching.
 | | | |
 | _Steven Spielberg_              |
 |       | Schindler's List | 1993 |
+| | | |
 | | | |
 | _Jaco Van Dormael_              | 
 |          | Mr Nobody | 2009     |
@@ -69,5 +71,9 @@ A list of movies worth watching.
 | | | |
 | _Tom Ford_                      | 
 |       | Noctural Animals | 2016 |
+| | | |
+| | | |
 | _Robert Zemeckis_              |
 |  | Back to the  Future | 1985   |
+| | | |
+| | | |
